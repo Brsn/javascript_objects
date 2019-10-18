@@ -1,1 +1,1 @@
-# javascript_objects
+# javascript_objects examples and functions
